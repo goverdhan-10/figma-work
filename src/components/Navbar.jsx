@@ -12,12 +12,12 @@ import addicon from '../assets/Add.png';
 import horizontalicon from '../assets/MoreHorizontal.png';
 import staricon from '../assets/Star.png';
 import dropdownicon from '../assets/DownArrow.png';
-import upArrowIcon from '../assets/DownArrow.png'; // rotated for Navbar4
+import upArrowIcon from '../assets/DownArrow.png'; 
 
 const Navbar = () => {
   return (
     <div className="w-full">
-      {/* === Navbar 1 === */}
+      
       <div className="w-full h-[11vh] border-b border-[#e5e5e5] bg-white flex items-center justify-between px-8 shadow-sm">
         <div className="flex items-center gap-2 px-[5px] py-[5px]">
           <img src={logoIcon} alt="SEORCE Logo" className="w-[19.6vh] h-[5.48vh]" />
@@ -52,7 +52,7 @@ const Navbar = () => {
         </div>
       </div>
 
-      {/* === Navbar 2 === */}
+      
       <div className="w-full h-[7.74vh] mx-auto border-b border-[#e5e5e5] bg-white flex items-center justify-between">
         <div className="ml-[3.87vh]">
           <span className="text-black text-[2.2vh] font-medium leading-[3.22vh]">Rank Tracker</span>
@@ -67,7 +67,7 @@ const Navbar = () => {
         </div>
       </div>
 
-      {/* === Navbar 3 === */}
+      
       <div className="w-full h-[9.67vh] mx-auto border-b border-[#e5e5e5] bg-white flex items-center">
         <div className="w-full px-[3.87vh] py-[1.93vh] flex justify-between items-center">
           <div className="flex gap-[1.93vh] items-center">
@@ -98,7 +98,7 @@ const Navbar = () => {
         </div>
       </div>
 
-      {/* === Navbar 4 === */}
+
       <div className='w-full h-[8.38vh] mx-auto bg-white border-b border-[#e5e5e5]'>
         <div className='px-[3.87vh]'>
           <div className='pb-[2.5vh] flex gap-[3450px]'>
@@ -113,7 +113,7 @@ const Navbar = () => {
         </div>
       </div>
 
-      {/* === Navbar 5 === */}
+      
       <div className='w-full h-[5.8vh] bg-white border-b border-[#e5e5e5] px-[3.87vh] flex items-center'>
         <div className='flex gap-x-[8.62vh]'>
           <div className='text-[#595959] text-[2.25vh] font-medium'>Details</div>

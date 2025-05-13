@@ -10,7 +10,7 @@ const Topbar = ({ fullrounded = false }) => {
       }`}
     >
       <div className='px-[2.5vh] py-[1.93vh] flex flex-wrap items-center justify-between h-full'>
-        {/* Left Section */}
+        
         <div className='flex flex-wrap items-center gap-x-[3.87vh] gap-y-[1.29vh] flex-1 min-w-0'>
           <img src={divicon} className='h-[7.09vh] w-auto max-w-[27.5vh]' alt="Div Icon" />
           <img src={activeicon} className='h-[3.22vh] w-auto max-w-[16.12vh]' alt="Active Icon" />
@@ -22,7 +22,7 @@ const Topbar = ({ fullrounded = false }) => {
           <div className='text-[2.25vh] whitespace-nowrap'>25 Mar, 2025 01:11 PM</div>
         </div>
 
-        {/* Right Section */}
+       
         <div className='flex items-center gap-x-[2.5vh] mt-[1.29vh] sm:mt-0'>
           <div className='px-[1.93vh] py-[1.29vh] text-[1.93vh] font-medium border border-[#05F] text-[#05F] rounded-[0.9vh] text-center whitespace-nowrap'>
             Add Keywords
