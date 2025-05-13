@@ -70,19 +70,19 @@ const Mainbar = () => {
                   <div className='gap-y-[0.322vh]'>
                     <div className='flex gap-x-[8.70vh]'>
                       <div className='text-[2.25vh] text-[#1f1f1f]'>Top 1-3</div>
-                      <div className='flex gap-x-[2.5vh]'><span className='text-[2.25vh] text-[#1f1f1f]'>36</span> <img src={fificon} className='w-[7.09vh] h-[1.93vh] mt-[16px]'/></div>
+                      <div className='flex gap-x-[2.5vh]'><span className='text-[2.25vh] text-[#1f1f1f]'>36</span> <img src={fificon} className='w-[7.09vh] h-[1.93vh] mt-[5px]'/></div>
                       
                     </div>
                     <hr className='border-t border-[#e5e5e5] h-px w-full my-4'></hr>
                     <div className='flex gap-x-[7.41935vh]'>
                       <div className='text-[2.25vh] text-[#1f1f1f]'>Top 4-10</div>
-                      <div className='flex gap-x-[2.5vh]'><span className='text-[2.25vh] text-[#1f1f1f]'>88</span> <img src={negfificon} className='w-[7.09vh] h-[1.93vh] mt-[16px]'/></div>
+                      <div className='flex gap-x-[2.5vh]'><span className='text-[2.25vh] text-[#1f1f1f]'>88</span> <img src={negfificon} className='w-[7.09vh] h-[1.93vh] mt-[5px]'/></div>
                       
                     </div>
                     <hr className='border-t border-[#e5e5e5] h-px w-full my-4'></hr>
                     <div className='flex gap-x-[6.2vh]'>
                       <div className='text-[2.25vh] text-[#1f1f1f]'>Top 11-20</div>
-                      <div className='flex gap-x-[2.5vh]'><span className='text-[2.25vh] text-[#1f1f1f]'>36</span> <img src={fificon} className='w-[7.09vh] h-[1.93vh] mt-[16px]'/></div>
+                      <div className='flex gap-x-[2.5vh]'><span className='text-[2.25vh] text-[#1f1f1f]'>36</span> <img src={fificon} className='w-[7.09vh] h-[1.93vh] mt-[8px]'/></div>
                       
                     </div>
                     <hr className='border-t border-[#e5e5e5] h-px w-full my-4'></hr>
@@ -90,13 +90,13 @@ const Mainbar = () => {
                   <div className='gap-y-[0.322vh]'>
                     <div className='flex gap-x-[5.05vh]'>
                       <div className='text-[2.25vh] text-[#1f1f1f]'>Top 21-50</div>
-                      <div className='flex gap-x-[2.5vh]'><span className='text-[2.25vh] text-[#1f1f1f]'>100</span> <img src={fificon} className='w-[7.09vh] h-[1.93vh]'/></div>
+                      <div className='flex gap-x-[2.5vh]'><span className='text-[2.25vh] text-[#1f1f1f]'>100</span> <img src={fificon} className='w-[7.09vh] h-[1.93vh] mt-[8px]'/></div>
                       
                     </div>
                     <hr className='border-t border-[#e5e5e5] h-px w-full my-4'></hr>
                     <div className='flex gap-x-[7.99vh]'>
                       <div className='text-[2.25vh] text-[#1f1f1f]'>Top 51+</div>
-                      <div className='flex gap-x-[2.5vh]'><span className='text-[2.25vh] text-[#1f1f1f]'>53</span> <img src={negfificon} className='w-[7.09vh] h-[1.93vh]'/></div>
+                      <div className='flex gap-x-[2.5vh]'><span className='text-[2.25vh] text-[#1f1f1f]'>53</span> <img src={negfificon} className='w-[7.09vh] h-[1.93vh] mt-[8px]'/></div>
                       
                     </div>
                     <hr className='border-t border-[#e5e5e5] h-px w-full my-4'></hr>
