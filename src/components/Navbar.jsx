@@ -61,7 +61,7 @@ const Navbar = () => {
           <div className="flex items-center justify-center bg-[#05f] text-white rounded-[1.29vh]">
             <div className="flex items-center gap-[0.32vh] px-[1.9vh] py-[1.29vh]">
               <img src={addicon} alt="plus" className="w-[2.5vh] h-[2.5vh]" />
-              <span className="text-[2vh] font-medium mb-[10px]">New Project</span>
+              <span className="text-[2vh] font-medium mb-[3px]">New Project</span>
             </div>
           </div>
         </div>
