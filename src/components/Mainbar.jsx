@@ -111,7 +111,7 @@ const Mainbar = () => {
         </div>
         {/*4*/}
         <div className='w-[49.3vh] h-[30.9vh] gap-y-[3.5vh]'>
-            <div className='flex gap-x-[17.15vh] items-center '> 
+            <div className='flex gap-x-[10.15vh] items-center '> 
               <div className='text-[2.25vh] font-medium text-[#595959] ml-[60px]'>Top 10 Keywords</div>
               <img src={twowayicon} className='h-[3.22vh] w-[8.38vh]'/>
             </div>
