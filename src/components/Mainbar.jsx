@@ -82,7 +82,7 @@ const Mainbar = () => {
                     <hr className='border-t border-[#e5e5e5] h-px w-full my-4'></hr>
                     <div className='flex gap-x-[6.2vh]'>
                       <div className='text-[2.25vh] text-[#1f1f1f]'>Top 11-20</div>
-                      <div className='flex gap-x-[2.5vh]'><span className='text-[2.25vh] text-[#1f1f1f]'>36</span> <img src={fificon} className='w-[7.09vh] h-[1.93vh] mt-[8px]'/></div>
+                      <div className='flex gap-x-[2.5vh]'><span className='text-[2.25vh] text-[#1f1f1f]'>36</span> <img src={fificon} className='w-[7.09vh] h-[1.93vh] mt-[5px]'/></div>
                       
                     </div>
                     <hr className='border-t border-[#e5e5e5] h-px w-full my-4'></hr>
@@ -90,13 +90,13 @@ const Mainbar = () => {
                   <div className='gap-y-[0.322vh]'>
                     <div className='flex gap-x-[5.05vh]'>
                       <div className='text-[2.25vh] text-[#1f1f1f]'>Top 21-50</div>
-                      <div className='flex gap-x-[2.5vh]'><span className='text-[2.25vh] text-[#1f1f1f]'>100</span> <img src={fificon} className='w-[7.09vh] h-[1.93vh] mt-[8px]'/></div>
+                      <div className='flex gap-x-[2.5vh]'><span className='text-[2.25vh] text-[#1f1f1f]'>100</span> <img src={fificon} className='w-[7.09vh] h-[1.93vh] mt-[5px]'/></div>
                       
                     </div>
                     <hr className='border-t border-[#e5e5e5] h-px w-full my-4'></hr>
                     <div className='flex gap-x-[7.99vh]'>
                       <div className='text-[2.25vh] text-[#1f1f1f]'>Top 51+</div>
-                      <div className='flex gap-x-[2.5vh]'><span className='text-[2.25vh] text-[#1f1f1f]'>53</span> <img src={negfificon} className='w-[7.09vh] h-[1.93vh] mt-[8px]'/></div>
+                      <div className='flex gap-x-[2.5vh]'><span className='text-[2.25vh] text-[#1f1f1f]'>53</span> <img src={negfificon} className='w-[7.09vh] h-[1.93vh] mt-[5px]'/></div>
                       
                     </div>
                     <hr className='border-t border-[#e5e5e5] h-px w-full my-4'></hr>
@@ -112,7 +112,7 @@ const Mainbar = () => {
         {/*4*/}
         <div className='w-[49.3vh] h-[30.9vh] gap-y-[3.5vh]'>
             <div className='flex gap-x-[17.15vh] items-center '> 
-              <div className='text-[2.25vh] font-medium text-[#595959] ml-[140px]'>Top 10 Keywords</div>
+              <div className='text-[2.25vh] font-medium text-[#595959] ml-[70px]'>Top 10 Keywords</div>
               <img src={twowayicon} className='h-[3.22vh] w-[8.38vh]'/>
             </div>
             <div className='h-25.16 gap-y-[0.6vh] ml-[140px]'>
