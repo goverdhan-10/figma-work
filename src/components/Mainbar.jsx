@@ -112,10 +112,10 @@ const Mainbar = () => {
         {/*4*/}
         <div className='w-[49.3vh] h-[30.9vh] gap-y-[3.5vh]'>
             <div className='flex gap-x-[17.15vh] items-center '> 
-              <div className='text-[2.25vh] font-medium text-[#595959] ml-[70px]'>Top 10 Keywords</div>
+              <div className='text-[2.25vh] font-medium text-[#595959] ml-[60px]'>Top 10 Keywords</div>
               <img src={twowayicon} className='h-[3.22vh] w-[8.38vh]'/>
             </div>
-            <div className='h-25.16 gap-y-[0.6vh] ml-[140px]'>
+            <div className='h-25.16 gap-y-[0.6vh] ml-[60px]'>
               <div className='flex gap-x-[1.29vh] rounded-[1.29vh] shadow-lg items-center pl-[10px] w-full h-[4.51vh]'>
                 <span className="flex items-center justify-center w-[2.5vh] h-[2.5vh] rounded-[2.5vh] bg-[#f4f4f4] text-[#05f] text-[1.6vh]">1</span>
                 <div className='text-[1.93vh] text-regular text-[#1f1f1f]'>Technology</div>
