@@ -90,13 +90,13 @@ const Mainbar = () => {
                   <div className='gap-y-[0.322vh]'>
                     <div className='flex gap-x-[5.05vh]'>
                       <div className='text-[2.25vh] text-[#1f1f1f]'>Top 21-50</div>
-                      <div className='flex gap-x-[2.5vh]'><span className='text-[2.25vh] text-[#1f1f1f]'>100</span> <img src={fificon} className='w-[7.09vh] h-[1.93vh] mt-[16px]'/></div>
+                      <div className='flex gap-x-[2.5vh]'><span className='text-[2.25vh] text-[#1f1f1f]'>100</span> <img src={fificon} className='w-[7.09vh] h-[1.93vh]'/></div>
                       
                     </div>
                     <hr className='border-t border-[#e5e5e5] h-px w-full my-4'></hr>
                     <div className='flex gap-x-[7.99vh]'>
                       <div className='text-[2.25vh] text-[#1f1f1f]'>Top 51+</div>
-                      <div className='flex gap-x-[2.5vh]'><span className='text-[2.25vh] text-[#1f1f1f]'>53</span> <img src={negfificon} className='w-[7.09vh] h-[1.93vh] mt-[16px]'/></div>
+                      <div className='flex gap-x-[2.5vh]'><span className='text-[2.25vh] text-[#1f1f1f]'>53</span> <img src={negfificon} className='w-[7.09vh] h-[1.93vh]'/></div>
                       
                     </div>
                     <hr className='border-t border-[#e5e5e5] h-px w-full my-4'></hr>
@@ -116,23 +116,23 @@ const Mainbar = () => {
               <img src={twowayicon} className='h-[3.22vh] w-[8.38vh]'/>
             </div>
             <div className='h-25.16 gap-y-[0.6vh] ml-[140px]'>
-              <div className='flex gap-x-[1.29vh] rounded-[1.29vh] shadow-lg items-center pt-[10px] pl-[10px] w-full h-[4.51vh]'>
+              <div className='flex gap-x-[1.29vh] rounded-[1.29vh] shadow-lg items-center pl-[10px] w-full h-[4.51vh]'>
                 <span className="flex items-center justify-center w-[2.5vh] h-[2.5vh] rounded-[2.5vh] bg-[#f4f4f4] text-[#05f] text-[1.6vh]">1</span>
                 <div className='text-[1.93vh] text-regular text-[#1f1f1f]'>Technology</div>
               </div>
-              <div className='flex gap-x-[1.29vh] rounded-[1.29vh] shadow-lg items-center pt-[10px] pl-[10px] w-full h-[4.51vh]'>
+              <div className='flex gap-x-[1.29vh] rounded-[1.29vh] shadow-lg items-center pl-[10px] w-full h-[4.51vh]'>
                 <span className="flex items-center justify-center w-[2.5vh] h-[2.5vh] rounded-[2.5vh] bg-[#f4f4f4] text-[#05f] text-[1.6vh]">2</span>
                 <div className='text-[1.93vh] text-regular text-[#1f1f1f]'>Seorce</div>
               </div>
-              <div className='flex gap-x-[1.29vh] rounded-[1.29vh] shadow-lg items-center pt-[10px] pl-[10px] w-full h-[4.51vh]'>
+              <div className='flex gap-x-[1.29vh] rounded-[1.29vh] shadow-lg items-center pl-[10px] w-full h-[4.51vh]'>
                 <span className="flex items-center justify-center w-[2.5vh] h-[2.5vh] rounded-[2.5vh] bg-[#f4f4f4] text-[#05f] text-[1.6vh]">3</span>
                 <div className='text-[1.93vh] text-regular text-[#1f1f1f]'>Keyword Ranking</div>
               </div>
-              <div className='flex gap-x-[1.29vh] rounded-[1.29vh] shadow-lg items-center pt-[10px] pl-[10px] w-full h-[4.51vh]'>
+              <div className='flex gap-x-[1.29vh] rounded-[1.29vh] shadow-lg items-center pl-[10px] w-full h-[4.51vh]'>
                 <span className="flex items-center justify-center w-[2.5vh] h-[2.5vh] rounded-[2.5vh] bg-[#f4f4f4] text-[#05f] text-[1.6vh]">4</span>
                 <div className='text-[1.93vh] text-regular text-[#1f1f1f]'>Project</div>
               </div>
-              <div className='flex gap-x-[1.29vh] rounded-[1.29vh] shadow-lg items-center pt-[10px] pl-[10px] w-full h-[4.51vh]'>
+              <div className='flex gap-x-[1.29vh] rounded-[1.29vh] shadow-lg items-center pl-[10px] w-full h-[4.51vh]'>
                 <span className="flex items-center justify-center w-[2.5vh] h-[2.5vh] rounded-[2.5vh] bg-[#f4f4f4] text-[#05f] text-[1.6vh]">5</span>
                 <div className='text-[1.93vh] text-regular text-[#1f1f1f]'>Average Position</div>
               </div>
